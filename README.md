@@ -24,8 +24,6 @@ Contributions are accepted on the condition they are licenced under the same ter
 * [`slideshow-text-style`](https://docs.racket-lang.org/slideshow-text-style/index.html): Small library that helps with formatting text in a slideshow
 * [Staged Slides]([https://docs.racket-lang.org/slideshow-text-style/index.html](https://docs.racket-lang.org/staged-slide/index.html)): `staged-slide`Helpers for building staged slides in Slideshow
 * [`lang-slide'](https://docs.racket-lang.org/lang-slide/index.html): A slide that shows all the languages used to build Racket.   `racket -l lang-slide`
-* [`scribble-embedding`](https://github.com/shriram/scribble-embedding).: Tools to embed 3rd party content into Scribble documents e.g.  Google Forms (surveys, quizzes, etc.) and YouTube videos.
-
 
 ##  Some `#lang slideshow` resources / examples
 
@@ -34,18 +32,22 @@ Contributions are accepted on the condition they are licenced under the same ter
 * [Robby Findler's ICFP 2014 Keynote](https://github.com/rfindler/icfp-2014-contracts-talk/)
 * https://github.com/lexi-lambda/talks/blob/master/2020-06-effects/main.rkt
 
-## [packages tagged slideshow](https://pkgd.racket-lang.org/pkgn/search?tags=slideshow)
+### [packages tagged slideshow](https://pkgd.racket-lang.org/pkgn/search?tags=slideshow)
 
 
-* Live code in Slideshow: https://github.com/mflatt/talks/tree/master/mredtalk3
+### Live code in Slideshow:
 
-* include live video in slides: https://github.com/videolang/website/blob/master/pub/icfp2017/slidesrc/slides.rkt
+https://github.com/mflatt/talks/tree/master/mredtalk3
+
+### Including live video in slides
+
+https://github.com/videolang/website/blob/master/pub/icfp2017/slidesrc/slides.rkt
 
 
-## [Asumu Takikawa's slideshow tutorial](https://www.asumu.xyz/blog/2018/03/31/making-the-most-of-lang-slideshow/)
+### [Asumu Takikawa's slideshow tutorial](https://www.asumu.xyz/blog/2018/03/31/making-the-most-of-lang-slideshow/)
 
 
-## Animated slideshow
+### Animated slideshow example
 
 ```racket
 #lang slideshow
