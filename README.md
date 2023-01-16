@@ -17,45 +17,30 @@ Contributions are accepted on the condition they are licenced under the same ter
 ## Packages
 
 * [slideshow-repl](https://docs.racket-lang.org/slideshow-repl/index.html): interactive evaluation within a slide presentation
-* [ppict](https://pkgs.racket-lang.org/package/ppict): progressive picts and slideshows
-* [scribble-slideshow](https://docs.racket-lang.org/scribble-slideshow/index.html): Write slideshows using Scribble
+* [`ppict`](https://pkgs.racket-lang.org/package/ppict): progressive picts and slideshows - see [Progressive pict slideshow template](https://github.com/racket-templates/ppict-slideshow-template) at https://github.com/racket-templates/
+* [`scribble-slideshow`](https://docs.racket-lang.org/scribble-slideshow/index.html): Write slideshows using Scribble
 * [Slideshow LaTeX](https://docs.racket-lang.org/slideshow-latex/index.html): embedding LaTeX in Racket slideshows
-* [slideshow-pretty][https://pkgs.racket-lang.org/package/slideshow-pretty): Slideshow extensions to add pretty transitions between slides.
-* [slideshow-text-style](https://docs.racket-lang.org/slideshow-text-style/index.html): Small library that helps with formatting text in a slideshow
+* [`slideshow-pretty`][https://pkgs.racket-lang.org/package/slideshow-pretty): Slideshow extensions to add pretty transitions between slides.
+* [`slideshow-text-style`](https://docs.racket-lang.org/slideshow-text-style/index.html): Small library that helps with formatting text in a slideshow
 * [Staged Slides]([https://docs.racket-lang.org/slideshow-text-style/index.html](https://docs.racket-lang.org/staged-slide/index.html)): `staged-slide`Helpers for building staged slides in Slideshow
 * [`lang-slide'](https://docs.racket-lang.org/lang-slide/index.html): A slide that shows all the languages used to build Racket.   `racket -l lang-slide`
+* [`scribble-embedding`](https://github.com/shriram/scribble-embedding).: Tools to embed 3rd party content into Scribble documents e.g.  Google Forms (surveys, quizzes, etc.) and YouTube videos.
 
 
 ##  Some `#lang slideshow` resources / examples
 
-## [mflatt/talks](https://github.com/mflatt/talks/)
-
-## https://github.com/samth/polyconf-2015
-
-## [Robby Findler's ICFP 2014 Keynote](https://github.com/rfindler/icfp-2014-contracts-talk/)
-
-## [Progressive pict slideshow template](https://github.com/racket-templates/ppict-slideshow-template)
-
-## https://github.com/shriram/scribble-embedding
+* [mflatt/talks](https://github.com/mflatt/talks/)
+* https://github.com/samth/polyconf-2015
+* [Robby Findler's ICFP 2014 Keynote](https://github.com/rfindler/icfp-2014-contracts-talk/)
+* https://github.com/lexi-lambda/talks/blob/master/2020-06-effects/main.rkt
 
 ## [packages tagged slideshow](https://pkgd.racket-lang.org/pkgn/search?tags=slideshow)
 
 
+* Live code in Slideshow: https://github.com/mflatt/talks/tree/master/mredtalk3
 
-## [slideshow-pretty](https://github.com/LeifAndersen/slideshow-pretty) transitions
+* include live video in slides: https://github.com/videolang/website/blob/master/pub/icfp2017/slidesrc/slides.rkt
 
-## Live code in Slideshow
-
-example of live code in a talk: https://github.com/mflatt/talks/tree/master/mredtalk3
-
-## include live video in slides
-
-use `#lang video` to include live video in slides; 
-https://github.com/videolang/website/blob/master/pub/icfp2017/slidesrc/slides.rkt
-
-
-## lexi-lambda/talks/blob/master/2020-06-effects/main.rkt
-https://github.com/lexi-lambda/talks/blob/master/2020-06-effects/main.rkt
 
 ## [Asumu Takikawa's slideshow tutorial](https://www.asumu.xyz/blog/2018/03/31/making-the-most-of-lang-slideshow/)
 
