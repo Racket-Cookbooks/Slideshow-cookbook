@@ -20,7 +20,7 @@ Contributions are accepted on the condition they are licenced under the same ter
 * [`ppict`](https://pkgs.racket-lang.org/package/ppict): progressive picts and slideshows - see [Progressive pict slideshow template](https://github.com/racket-templates/ppict-slideshow-template) at https://github.com/racket-templates/
 * [`scribble-slideshow`](https://docs.racket-lang.org/scribble-slideshow/index.html): Write slideshows using Scribble
 * [Slideshow LaTeX](https://docs.racket-lang.org/slideshow-latex/index.html): embedding LaTeX in Racket slideshows
-* [`slideshow-pretty`][https://pkgs.racket-lang.org/package/slideshow-pretty): Slideshow extensions to add pretty transitions between slides.
+* [`slideshow-pretty`](https://pkgs.racket-lang.org/package/slideshow-pretty): Slideshow extensions to add pretty transitions between slides.
 * [`slideshow-text-style`](https://docs.racket-lang.org/slideshow-text-style/index.html): Small library that helps with formatting text in a slideshow
 * [Staged Slides]([https://docs.racket-lang.org/slideshow-text-style/index.html](https://docs.racket-lang.org/staged-slide/index.html)): `staged-slide`Helpers for building staged slides in Slideshow
 * [`lang-slide'](https://docs.racket-lang.org/lang-slide/index.html): A slide that shows all the languages used to build Racket.   `racket -l lang-slide`
