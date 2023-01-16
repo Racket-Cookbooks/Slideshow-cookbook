@@ -1,4 +1,4 @@
-# Slideshow
+# Slideshow Cookbook
 Racket Slideshow cookbook
 
 
@@ -14,6 +14,13 @@ If you would like to contribute please create an issue or pull request with your
 
 Contributions are accepted on the condition they are licenced under the same terms as Racket: MIT or Apache 2.
 
+## Packages
+
+* [slideshow-repl](https://docs.racket-lang.org/slideshow-repl/index.html): interactive evaluation within a slide presentation
+* [ppict](https://pkgs.racket-lang.org/package/ppict): progressive picts and slideshows
+* [scribble-slideshow](https://docs.racket-lang.org/scribble-slideshow/index.html): Write slideshows using Scribble.
+* 
+
 ##  Some `#lang slideshow` resources / examples
 
 ## [mflatt/talks](https://github.com/mflatt/talks/)
@@ -28,7 +35,7 @@ Contributions are accepted on the condition they are licenced under the same ter
 
 ## [packages tagged slideshow](https://pkgd.racket-lang.org/pkgn/search?tags=slideshow)
 
-## [slideshow-repl](https://github.com/mflatt/slideshow-repl)
+
 
 ## [slideshow-pretty](https://github.com/LeifAndersen/slideshow-pretty) transitions
 
